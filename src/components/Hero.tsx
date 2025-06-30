@@ -16,7 +16,7 @@ const Hero = () => {
 
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
               Профессиональное ведение учета, налоговое консультирование и
-              полный бухгалтерский аутсорсинг. Более 10 лет опыта работы с ИП и
+              полный бухгалтерский аутсорсинг. Более 30 лет опыта работы с ИП и
               малым бизнесом.
             </p>
 
@@ -77,7 +77,7 @@ const Hero = () => {
                   </div>
                 </div>
                 <div className="p-4 bg-blue-50 rounded-lg">
-                  <div className="text-2xl font-bold text-blue-900">10+</div>
+                  <div className="text-2xl font-bold text-blue-900">30+</div>
                   <div className="text-sm text-gray-600">лет опыта</div>
                 </div>
               </div>
